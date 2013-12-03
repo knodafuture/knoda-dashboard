@@ -1,0 +1,8 @@
+Prod:
+
+http://api.flurry.com/eventMetrics/Summary?apiAccessCode=M86YRK8FYPJ5T5XDG3DX&apiKey=VQF4B8866XG6256GPQJ5&startDate=2013-11-01&endDate=2013-12-01
+
+
+
+Debug
+http://api.flurry.com/eventMetrics/Summary?apiAccessCode=M86YRK8FYPJ5T5XDG3DX&apiKey=QTDYWKWSJXK9YNDHKN5Z&startDate=2013-11-01&endDate=2013-12-01
