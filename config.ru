@@ -14,7 +14,7 @@ configure do
 
     def authorized?
       @auth ||=  Rack::Auth::Basic::Request.new(request.env)
-      @auth.provided? && @auth.basic? && @auth.credentials && @auth.credentials == ['admin', 'admin']
+      @auth.provided? && @auth.basic? && @auth.credentials && @auth.credentials == ['admin', 'Kn0daDa$h']
     end
 
   end  
