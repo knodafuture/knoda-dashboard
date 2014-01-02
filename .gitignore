@@ -1,2 +1,4 @@
 *DS_STORE
 history.yml
+# Ignore bundler config.
+/.bundle
